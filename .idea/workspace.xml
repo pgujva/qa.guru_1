@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96379961-d43e-41e1-aba9-e4afce78d072" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/buid.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/docs/Junit5Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/docs/Junit5Examples.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +32,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/docs/Junit5Examples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +79,8 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/buid.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/java/docs/Junit5Examples.java" />
       </list>
     </option>
   </component>
@@ -55,7 +90,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="102" />
     <option name="y" value="62" />
     <option name="width" value="1456" />
@@ -73,12 +108,18 @@
           <expand>
             <path>
               <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa.guru_1" type="462c0819:PsiDirectoryNode" />
+              <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa.guru_1" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -87,7 +128,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617799286996" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617802189487" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -102,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.Junit5Examples">
     <configuration name="C:/IdeaProjects/qa.guru_1/buid.gradle" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -120,6 +164,26 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="Junit5Examples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa.guru_1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="docs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="docs" />
+      <option name="MAIN_CLASS_NAME" value="docs.Junit5Examples" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Junit5Examples" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -153,26 +217,64 @@
       <option name="project" value="LOCAL" />
       <updated>1617796557290</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Junit5Examples">
+      <created>1617799300349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617799300349</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 44m 08s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 45m 00s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 48m 04s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 48m 28s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 52m 06s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 54m 17s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 55m 55s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 57m 00s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Junit5Examples - 2021.04.07 at 15h 58m 07s.xml">
+      <configuration name="Junit5Examples" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Build" weight="0.219935" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,7 +294,8 @@
     <MESSAGE value="add gitignore" />
     <MESSAGE value="add gitignore2" />
     <MESSAGE value="gitignore config" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore config" />
+    <MESSAGE value="Junit5Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Junit5Examples" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -208,17 +311,108 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/docs/Junit5Examples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>qa.guru_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.codeborne:selenide:5.18.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96379961-d43e-41e1-aba9-e4afce78d072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/docs/css/CssXpathExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/333" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/_GihpfJgTSU.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork/HomeWork2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestBoxTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestBoxTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -64,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Tests/TestBoxTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="401">
+              <caret line="31" selection-start-line="14" selection-start-column="2" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#254#255#0" expanded="true" />
@@ -76,12 +79,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/docs/css/CssXpathExamples.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HomeWork/HomeWork2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="321">
+              <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.18.0/8960db00d3d602fcd6d2ec6eec353a2882856dbb/selenide-5.18.0-sources.jar!/com/codeborne/selenide/SelenideElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="808" column="27" selection-start-line="808" selection-start-column="27" selection-end-line="808" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/docs/css/CssXpathExamples.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-17">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/_GihpfJgTSU.jpeg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -103,8 +137,10 @@
         <option value="$PROJECT_DIR$/buid.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/docs/Junit5Examples.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Tests/TestBoxTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/docs/css/xpath examples" />
+        <option value="$PROJECT_DIR$/src/test/java/docs/css/CssXpathExamples.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Tests/TestBoxTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HomeWork/HomeWork2.java" />
       </list>
     </option>
   </component>
@@ -137,45 +173,12 @@
             <path>
               <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qa.guru_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa.guru_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,11 +187,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617820814081" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617831305682" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\qa.guru_1" />
+      <recent name="C:\IdeaProjects\qa.guru_1\src\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestBoxTests">
+  <component name="RunManager" selected="JUnit.HomeWork2">
     <configuration name="C:/IdeaProjects/qa.guru_1/buid.gradle" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -219,6 +228,21 @@
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
+    </configuration>
+    <configuration name="HomeWork2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa.guru_1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork.HomeWork2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Junit5Examples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qa.guru_1.test" />
@@ -252,6 +276,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HomeWork2" />
         <item itemvalue="JUnit.TestBoxTests" />
         <item itemvalue="JUnit.Junit5Examples" />
       </list>
@@ -303,39 +328,46 @@
       <option name="project" value="LOCAL" />
       <updated>1617817512180</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CssXpathExamples">
+      <created>1617820832265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617820832265</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Junit5Examples - 2021.04.07 at 15h 57m 00s.xml">
-      <configuration name="Junit5Examples" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.07 at 23h 41m 04s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Junit5Examples - 2021.04.07 at 15h 58m 07s.xml">
-      <configuration name="Junit5Examples" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.07 at 23h 42m 22s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Junit5Examples - 2021.04.07 at 18h 26m 17s.xml">
-      <configuration name="Junit5Examples" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.07 at 23h 44m 52s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBoxTests - 2021.04.07 at 18h 26m 36s.xml">
-      <configuration name="TestBoxTests" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.07 at 23h 45m 10s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBoxTests - 2021.04.07 at 18h 31m 32s.xml">
-      <configuration name="TestBoxTests" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.08 at 00h 03m 02s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBoxTests - 2021.04.07 at 18h 32m 48s.xml">
-      <configuration name="TestBoxTests" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.08 at 00h 03m 47s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBoxTests - 2021.04.07 at 20h 12m 04s.xml">
-      <configuration name="TestBoxTests" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.08 at 00h 20m 23s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBoxTests - 2021.04.07 at 20h 13m 14s.xml">
-      <configuration name="TestBoxTests" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.08 at 00h 20m 38s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBoxTests - 2021.04.07 at 20h 22m 02s.xml">
-      <configuration name="TestBoxTests" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.08 at 00h 21m 55s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBoxTests - 2021.04.07 at 20h 27m 01s.xml">
-      <configuration name="TestBoxTests" configurationId="JUnit" />
+    <history-entry file="HomeWork2 - 2021.04.08 at 00h 22m 45s.xml">
+      <configuration name="HomeWork2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -347,7 +379,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33595988" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33595988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -356,8 +388,8 @@
       <window_info anchor="bottom" id="Messages" weight="0.32974428" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2745626" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.14939435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3512786" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3526245" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -378,7 +410,20 @@
     <MESSAGE value="gitignore config" />
     <MESSAGE value="Junit5Examples" />
     <MESSAGE value="successfulFillTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="successfulFillTest" />
+    <MESSAGE value="CssXpathExamples" />
+    <option name="LAST_COMMIT_MESSAGE" value="CssXpathExamples" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tests/TestBoxTests.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -439,10 +484,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/01752.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.7.0/a382c78ca35b240e3b88b4d68ef6884a365631f0/junit-platform-commons-1.7.0-sources.jar!/org/junit/platform/commons/util/ReflectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="690" selection-start-line="690" selection-end-line="690" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codeborne/selenide/5.18.0/8960db00d3d602fcd6d2ec6eec353a2882856dbb/selenide-5.18.0-sources.jar!/com/codeborne/selenide/SelenideElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="808" column="27" selection-start-line="808" selection-start-column="27" selection-end-line="808" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resourses">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Tests/TestBoxTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="401">
+          <caret line="31" selection-start-line="14" selection-start-column="2" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#254#255#0" expanded="true" />
@@ -451,10 +516,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/333">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.7.0/9c4b766f5e598d39ea76858dcc5a6e3d8fa5ca7f/junit-jupiter-engine-5.7.0-sources.jar!/org/junit/jupiter/engine/execution/InvocationInterceptorChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/_GihpfJgTSU.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/docs/css/CssXpathExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        <state relative-caret-position="-17">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HomeWork/HomeWork2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

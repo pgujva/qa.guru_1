@@ -5,6 +5,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 
+import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.byId;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
@@ -25,6 +26,7 @@ public class TestBoxTests {
     $(byId("permanentAddress")).setValue("street_2");
     $(byId("submit")).click();
 
+    $(byId("name")).shouldHave(text("pasha"));
     System.out.println("debug");
   }
 

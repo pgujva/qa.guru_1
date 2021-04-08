@@ -48,8 +48,9 @@ public class HomeWork2 {
     $("#city").click();
     $(byText("Lucknow")).click();
     $("#submit").click();
-    $(".table-responsive").shouldHave(Condition.text("pasha " + "gujva"));
-
+    $(".table-responsive").shouldHave((Condition.text("pasha " + "gujva")),
+            Condition.text("test@mail.ru"),
+            Condition.text("mail"));
   }
 
 }

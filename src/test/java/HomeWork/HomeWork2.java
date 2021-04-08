@@ -7,6 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import java.io.File;
 
+import static com.codeborne.selenide.CollectionCondition.texts;
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
@@ -25,18 +26,18 @@ public class HomeWork2 {
     $("#firstName").setValue("pasha");
     $("#lastName").setValue("gujva");
     $("#userEmail").setValue("test@mail.ru");
-    $(byText("Male")).click();
+    $("#genterWrapper").find(byText("Male")).click();
     $("#userNumber").setValue("8904442222");
 
     //календарь
     $("#dateOfBirthInput").click();
     // выбор месяца
-    $$("option").get(6).click();
+    $(".react-datepicker__month-select").selectOption("July");
     // выбор года
     $(".react-datepicker__year-select").click();
-    $$(".react-datepicker__year-select option").get(6).click();
+    $(".react-datepicker__year-select").selectOption("1991");
     // выбор дня
-    $("[aria-label='Choose Tuesday, July 3rd, 1906']").click();
+    $(".react-datepicker__day.react-datepicker__day--017").click();
 
     $("#subjectsContainer input").setValue("te").pressEnter();
     $(byText("Reading")).click();
@@ -48,9 +49,8 @@ public class HomeWork2 {
     $("#city").click();
     $(byText("Lucknow")).click();
     $("#submit").click();
-    $(".table-responsive").shouldHave((Condition.text("pasha " + "gujva")),
-            Condition.text("test@mail.ru"),
-            Condition.text("mail"));
+    $$(".table-responsive tr" ).filterBy(text("Student name")).shouldHave(texts("pasha " + "gujva"));
+    $$(".table-responsive tr" ).filterBy(text("Student Email")).shouldHave(texts("test@mail.ru"));
   }
 
 }

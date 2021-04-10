@@ -18,6 +18,7 @@ public class TestSomethimg {
   @Test
   public void testOne() {
     open("https://demoqa.com/automation-practice-form");
+
    SelenideElement a = $("div.col-12.mt-4.col-md-6");
     System.out.println(a);
     //$("#column-a").find("header").shouldHave(text("B"));

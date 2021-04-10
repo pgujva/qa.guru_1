@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96379961-d43e-41e1-aba9-e4afce78d072" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork/TestSomethimg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork/TestSomethimg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +145,7 @@
       <recent name="C:\IdeaProjects\qa.guru_1\src\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestSomethimg">
+  <component name="RunManager" selected="JUnit.HomeWork2">
     <configuration name="C:/IdeaProjects/qa.guru_1/buid.gradle" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -241,14 +242,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HomeWork2" />
         <item itemvalue="JUnit.TestSomethimg" />
         <item itemvalue="JUnit.HomeWork3_1" />
         <item itemvalue="JUnit.HomeWork3" />
-        <item itemvalue="JUnit.HomeWork2" />
         <item itemvalue="JUnit.TestBoxTests" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
